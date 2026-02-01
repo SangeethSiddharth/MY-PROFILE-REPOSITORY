@@ -7,7 +7,6 @@
 
 ## 🚀 Featured Projects
 - [DATA-STRUCTUTRES](https://github.com/SangeethSiddharth/DATA-STRUCTUTRES)
-- [website](https://github.com/SangeethSiddharth/website)
 - [C-PROGRAM](https://github.com/SangeethSiddharth/C-PROGRAM)
 
 ---
